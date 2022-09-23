@@ -1,6 +1,8 @@
 # Hacktoberfest Efrei Guidelines
 This demonstration repository is NOT participating to Hacktoberfest but is used to demonstrate the best practices and requirements to participate.
 Please look at the pull requests and issues sections to learn more about how you should contribute to real projects out there.
+As you can see on the right side of the GitHub page, this repository has the "hacktoberfest-fake" topic.
+PLEASE ONLY CONTRIBUTE TO PROJECTS THAT HAVE THE "hacktoberfest" TOPIC, AS ALL OTHER CONTRIBUTIONS WILL NOT BE COUNTED AS VALID!
 
 # FMNetwork
 

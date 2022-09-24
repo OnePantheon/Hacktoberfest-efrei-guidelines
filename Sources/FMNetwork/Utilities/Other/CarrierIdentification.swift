@@ -349,6 +349,11 @@ internal class CarrierIdentification {
         return valueToReturn.uppercased()
     }
     
+    
+    /// This function gets the emoji flag of a country for a given ISO country code.
+    /// - Parameters:
+    ///   - country: The 2-digit ISO country code, as a String
+    /// - Returns: The matching emoji flag, or "🌍" (world globe emoji) if no matching found.
     internal static func getEmojiIso (_ country : String) -> String {
         let dictCodes = [
             "AD" : "🇦🇩",
